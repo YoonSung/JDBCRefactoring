@@ -1,0 +1,16 @@
+*.class
+
+# For Mac OS X
+.DS_Store
+  
+# Package Files #
+#*.jar
+*.war
+*.ear
+  
+# Maven
+target
+.settings
+.project
+.classpath
+bin
